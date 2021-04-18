@@ -1,0 +1,9 @@
+#腾讯视频去广告
+DOMAIN-SUFFIX, dp3.qq.com, reject
+DOMAIN-SUFFIX, iacc.qq.com, reject
+DOMAIN-SUFFIX, livep.l.qq.com, reject
+DOMAIN-SUFFIX, vr.gdt.qq.com, reject
+DOMAIN-SUFFIX, vv.video.qq.com, reject
+DOMAIN-SUFFIX, btrace.video.qq.com, reject
+DOMAIN-SUFFIX, mtrace.qq.com, reject
+DOMAIN-SUFFIX, btrace.qq.com, reject
